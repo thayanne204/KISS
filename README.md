@@ -6,8 +6,7 @@ public class ParOuImpar {
             System.out.println("O número " + numero + " é ímpar.");
         }
     }
-
-    public static void main(String[] args) {
+     public static void main(String[] args) {
         verificarNumero(7);
         verificarNumero(10);
     }
